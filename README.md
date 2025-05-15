@@ -135,10 +135,6 @@ Provides a clean, interactive UI for real-time chatbot interactions.
 ---
 
 ## ✅ Getting Started
-
-1. Clone the repo  
-2. Set up AWS credentials  
-3. Run the Streamlit app:
-
-```bash
-streamlit run app.py
+ 
+1. Set up AWS credentials  
+2. Run the Streamlit app.
